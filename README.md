@@ -1,2 +1,2 @@
 # DEPI-Projects
-DEPI Practice Projects
+A collection of data analysis projects completed during the **DEPI** program.
